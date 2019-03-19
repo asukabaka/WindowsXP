@@ -4,15 +4,18 @@ body, html {
 }
 
 body{
-  background-color: blue;
+  background-image: url("../images/WindowsXPLogin.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
   text-align: center;
+  
 }
 
 h1 {
   color: yellow;
   text-decoration: underline;
 }
-
+/*
 #div1 {
   background-color: gray;
   color: hotpink;
@@ -42,4 +45,4 @@ h1 {
   background-color: #d307ff;
   margin: 5%;
   clear: both;
-}
+} */
