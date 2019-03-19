@@ -1,0 +1,45 @@
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  background-color: blue;
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+  text-decoration: underline;
+}
+
+#div1 {
+  background-color: gray;
+  color: hotpink;
+  border-style: solid groove;
+  border-width: 5px;
+  border-color: green;
+  margin: 5%;
+  padding: 6px;
+}
+
+#div2{
+  background-color: #cc1a54;
+  margin: 5%;
+  float: left;
+  width: 20%;
+}
+
+#div3{
+  background-color: #f1ff47;
+  margin: 5%;
+  padding: 6px;
+  float: right;
+  width: 50%;
+}
+
+#div4{
+  background-color: #d307ff;
+  margin: 5%;
+  clear: both;
+}
