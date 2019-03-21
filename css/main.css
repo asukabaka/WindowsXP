@@ -3,17 +3,27 @@ body, html {
   height: 100%;
 }
 
-body{
-  background-image: url("../images/WindowsXPLogin.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  text-align: center;
-
-}
 
 h1 {
   color: yellow;
   text-decoration: underline;
+}
+
+body{
+  text-align: center;
+}
+
+
+
+body.WindowsDesktop {
+  background-image: url("images/WindowsXPBackground/jpg");
+}
+
+
+
+a:hover, a:active {
+  background-color: rgba(73, 243, 235, 0.9);
+
 }
 
 .maplestory_background{
