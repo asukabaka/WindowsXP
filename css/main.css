@@ -33,8 +33,7 @@ a:hover, a:active {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-audio.maplestory_music{
+.hidden{
   display: hidden;
 }
 /*
