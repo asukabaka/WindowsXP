@@ -33,6 +33,15 @@ a:hover, a:active {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.maplestory_password_background{
+  background-image: url("../images/maplestory_password.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .hidden{
   display: hidden;
 }
