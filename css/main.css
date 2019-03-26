@@ -136,6 +136,33 @@ a:hover, a:active {
 
 }
 
+.maplestory_aol{
+  background-image: url("../images/maplestory_aol.gif");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.maplestory_fbi{
+  background-image: url("../images/maplestory_fbi.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.maplestory_pwned{
+  background-image: url("../images/maplestory_pwned.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 
 .hidden{
   display: hidden;
