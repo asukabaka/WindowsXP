@@ -137,7 +137,7 @@ a:hover, a:active {
 }
 
 .maplestory_aol{
-  background-image: url("../images/maplestory_aol.gif");
+  background-image: url("../images/aol_messanger.gif");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -155,7 +155,7 @@ a:hover, a:active {
 }
 
 .maplestory_pwned{
-  background-image: url("../images/maplestory_pwned.jpg");
+  background-image: url("../images/nyan_cat.gif");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
