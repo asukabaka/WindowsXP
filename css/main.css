@@ -100,6 +100,42 @@ a:hover, a:active {
 
 }
 
+.maplestory_boy_girl{
+  background-image: url("../images/maplestory_boy_girl.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.maplestory_love{
+  background-image: url("../images/maplestory_love.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.maplestory_amoria{
+  background-image: url("../images/maplestory_amoria.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.maplestory_amoria2{
+  background-image: url("../images/maplestory_amoria2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 
 .hidden{
   display: hidden;
