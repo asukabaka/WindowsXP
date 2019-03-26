@@ -42,6 +42,22 @@ a:hover, a:active {
     background-size: cover;
 }
 
+.maplestory_world_select{
+  background-image: url("../images/maplestory_world_select.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.maplestory_character_creation{
+  background-image: url("../images/maplestory_character_creation.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .hidden{
   display: hidden;
 }
