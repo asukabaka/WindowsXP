@@ -82,6 +82,24 @@ a:hover, a:active {
     background-size: cover;
 }
 
+.maplestory_boy{
+  background-image: url("../images/maplestory_boy.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.maplestory_girl{
+  background-image: url("../images/maplestory_girl.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
 
 .hidden{
   display: hidden;
