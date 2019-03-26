@@ -58,6 +58,15 @@ a:hover, a:active {
     background-size: cover;
 }
 
+.maplestory_amherst{
+  background-image: url("../images/amherst.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 .hidden{
   display: hidden;
 }
